@@ -9,18 +9,18 @@ window.addEventListener(
 );
 volumeSlider = document.getElementById("volumeSlider")
 let songArray = [
-    "Promenade (Part 1).mp3",
-    "The Gnome.mp3",
-    "Promenade (Part 2).mp3",
-    "The Sage.mp3",
-    "The Old Castle.mp3",
-    "Blues Variation.mp3",
-    "Promenade (Part 3).mp3",
-    "The Hut of Baba Yaga (Part 1).mp3",
-    "The Curse of Baba Yaga.mp3",
-    "The Hut of Baba Yaga (Part 2).mp3",
-    "The Great Gates of Kiev.mp3",
-    "Nutrocker.mp3"
+    "audio/Promenade (Part 1).mp3",
+    "audio/The Gnome.mp3",
+    "audio/Promenade (Part 2).mp3",
+    "audio/The Sage.mp3",
+    "audio/The Old Castle.mp3",
+    "audio/Blues Variation.mp3",
+    "audio/Promenade (Part 3).mp3",
+    "audio/The Hut of Baba Yaga (Part 1).mp3",
+    "audio/The Curse of Baba Yaga.mp3",
+    "audio/The Hut of Baba Yaga (Part 2).mp3",
+    "audio/The Great Gates of Kiev.mp3",
+    "audio/Nutrocker.mp3"
 ];
 
 let currentSong = 0;
